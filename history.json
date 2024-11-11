@@ -1,0 +1,16 @@
+[
+  {
+    "operation": "multiply",
+    "valueA": 1,
+    "valueB": 2,
+    "result": 2,
+    "date": "2024-11-07T06:24:24.395Z"
+  },
+  {
+    "operation": "substract",
+    "valueA": 5,
+    "valueB": 1,
+    "result": 1,
+    "date": "2024-11-07T06:24:49.027Z"
+  }
+]
